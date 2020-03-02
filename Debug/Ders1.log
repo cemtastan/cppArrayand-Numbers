@@ -1,0 +1,4 @@
+﻿  Ders2.cpp
+C:\Users\cem\Desktop\master\SecondSemester\Corporative information systems design\cpp\learning cpp\turkishPractice\Ders1\Ders1\Ders2.cpp(16,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+Ders2.obj : error LNK2005: _main already defined in Ders1.obj
+C:\Users\cem\Desktop\master\SecondSemester\Corporative information systems design\cpp\learning cpp\turkishPractice\Ders1\Debug\Ders1.exe : fatal error LNK1169: one or more multiply defined symbols found
